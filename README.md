@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Helin Çelikbaş
+# 👋 Hi, I'm Helin 
 
 ## Frontend Developer (React.js)
 
@@ -12,11 +12,13 @@ I have experience working with:
 - Tailwind CSS
 
 ---
-🧠 My Working Approach
-I use a component-based architecture
-I prioritize writing clean and maintainable code
-I develop responsive and user-friendly interfaces
-I am committed to continuous learning and self-improvement
+## 🧠 My Working Approach
+
+- I follow a component-based architecture  
+- I write clean, readable, and maintainable code  
+- I develop responsive and user-friendly interfaces  
+- I focus on performance and best practices  
+- I am committed to continuous learning and self-improvement  
 
 ## 💻 Tech Stack
 
