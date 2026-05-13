@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Helin 
+# 👩‍💻 Hi, I'm Helin 
 
 ## Frontend Developer (React.js)
 
