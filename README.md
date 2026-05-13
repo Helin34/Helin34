@@ -1,4 +1,12 @@
+## 📊 GitHub Stats
+
+![Helin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Helin34&show_icons=true&theme=radical)
+
 # 👋 Hi, I'm Helin 
+
+## 🔥 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Helin34&layout=compact&theme=radical)
 
 ## Frontend Developer (React.js)
 
@@ -26,7 +34,13 @@ I am a Frontend Developer focused on building modern, responsive and user-friend
 - I focus on performance and best practices  
 - I am committed to continuous learning and self-improvement  
 
-## 💻 Tech Stack
+## 📈 GitHub Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Helin34&theme=react-dark)
+
+## 👀 Profile Views
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Helin34&color=blue)
 
 ## 💻 Tech Stack
 
