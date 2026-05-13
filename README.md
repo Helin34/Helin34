@@ -38,18 +38,16 @@ I am a Frontend Developer focused on building modern, responsive and user-friend
 
 ---
 
-## 📈 GitHub Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Helin34&theme=react-dark)
-
-## 👀 Profile Views
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Helin34&color=blue)
-
-
 ## 📫 Contact
 
 Email: helincelikbas142@gmail.com  
 LinkedIn: linkedin.com/in/helin-çelikbaş  
 GitHub: github.com/Helin34
+
+
+## 📈 GitHub Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Helin34&theme=react-dark)
+
+
 
