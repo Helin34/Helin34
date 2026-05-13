@@ -45,9 +45,6 @@ LinkedIn: linkedin.com/in/helin-çelikbaş
 GitHub: github.com/Helin34
 
 
-## 📈 GitHub Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Helin34&theme=react-dark)
 
 
 
