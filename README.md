@@ -6,14 +6,18 @@ I am a Frontend Developer focused on building modern, responsive and user-friend
 
 ---
 
-I have experience working with:
-- React.js, JavaScript (ES6+)
-- Redux Toolkit, Context API
+## 💡 Technologies I Work With
+
+- React.js
+- JavaScript (ES6+)
+- Redux Toolkit
+- Context API
 - Firebase (Auth & Firestore)
 - REST APIs
 - Tailwind CSS
-
+  
 ---
+
 ## 🧠 My Working Approach
 
 - I follow a component-based architecture  
