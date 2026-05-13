@@ -4,6 +4,8 @@
 
 I am a Frontend Developer focused on building modern, responsive and user-friendly web applications using React.js ecosystem.
 
+---
+
 I have experience working with:
 - React.js, JavaScript (ES6+)
 - Redux Toolkit, Context API
