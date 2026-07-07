@@ -15,6 +15,8 @@ I am a Frontend Developer focused on building modern, responsive and user-friend
 - Firebase (Auth & Firestore)
 - REST APIs
 - Tailwind CSS
+- Node.js
+- Mongo.Db
   
 ---
 
