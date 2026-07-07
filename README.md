@@ -1,6 +1,6 @@
 # 👩‍💻 Hi, I'm Helin 
 
-## Frontend Developer (React.js)
+## FullStack Developer (React.js)
 
 I am a Frontend Developer focused on building modern, responsive and user-friendly web applications using React.js ecosystem.
 
